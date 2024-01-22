@@ -13,7 +13,7 @@ namespace TaskManagementApp.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202312161719171_initial"; }
+            get { return "202401221004077_initial"; }
         }
         
         string IMigrationMetadata.Source

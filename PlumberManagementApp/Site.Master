@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="CashierManagementApp.SiteMaster" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PlumberManagementApp.SiteMaster" %>
 
 <!DOCTYPE html>
 
@@ -53,7 +53,7 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
-                         <li><a runat="server" href="~/CashierManagement">Manage Cashier</a></li>
+                         <li><a runat="server" href="~/PlumberManagement">Manage Plumbers</a></li>
                       
                     </ul>
                 </div>
